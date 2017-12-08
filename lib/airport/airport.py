@@ -28,7 +28,7 @@ class AirPort(object):
 
 
 if __name__ == '__main__':
-    ap = argparse.ArgumentParser(description='domob dsa ad sync')
+    ap = argparse.ArgumentParser(description='xxx dsa ad sync')
     ap.add_argument("-tp", "--topic", type=str, help="the topic job you want to run, \
                zeus_ad_breakdown_data		: ad breakdown data,\
                zeus_ad_all_data			: ad all data",

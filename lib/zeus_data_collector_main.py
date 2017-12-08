@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 #-*- coding: utf-8 -*-
 """
-Author: liuyang@domob.cn
+Author: liuyang@xxx.cn
 Created Time: 2017-06-05 14:12:04
 """
 
@@ -20,7 +20,7 @@ sys.path.append(basepath + '/lib')
 
 
 if __name__ == '__main__':
-    ap = argparse.ArgumentParser(description = 'domob dsa ad sync')
+    ap = argparse.ArgumentParser(description = 'xxx dsa ad sync')
     ap.add_argument('-d', '--executeDir', type = str,
             help = 'app execution directory',
             default = basepath)
